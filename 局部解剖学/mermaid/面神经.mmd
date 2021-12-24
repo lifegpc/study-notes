@@ -1,0 +1,23 @@
+flowchart LR
+subgraph 三叉神经分支
+TN[三叉神经]-->ON[眼神经]
+TN-->MXN[上颌神经]
+TN-->MNN[下颌神经]
+end
+subgraph 眼神经分支
+ON-->眶上神经
+end
+subgraph 上颌神经分支
+MXN-->眶下神经
+end
+subgraph 下颌神经分支
+MNN-->颏神经
+end
+subgraph 面神经分支
+direction LR
+FN[面神经]-->TB["颞支(2支)"]
+FN-->ZB["颧支(2~3支)"]
+FN-->颊支
+FN-->下颌缘支
+FN-->颈支
+end
