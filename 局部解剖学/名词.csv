@@ -11,7 +11,7 @@
 眼轮匝肌,orbicularis oculi,
 笑肌,musculus risorius,
 颧肌,zygomaticus,
-颈阔肌,platysma,
+颈阔肌,platysma,41
 颊肌,buccinator,
 口轮匝肌,orbicularis oris,
 面动脉,facial artery,12
@@ -42,7 +42,7 @@
 腮腺,parotid gland,17
 腮腺管,parotid duct,17
 下颌后静脉,retromandibular vein,17
-颈外动脉,external carotid artery,18
+颈外动脉,external carotid artery,"18, 40"
 咬肌,masseter muscle,19
 颞下颌关节,tempormandibular joint,19
 翼内肌,medial pterygoid muscle,19
@@ -74,7 +74,7 @@
 帽装腱膜,epicranial aponeurosis,25
 颞浅动、静脉,supraorbital temporal artery and vein,
 耳后动、静脉,posterior acricular artery and vein,
-枕小神经,lesser occiptial nerve,
+枕小神经,lesser occiptial nerve,42
 颞筋膜,temporal fascia,25
 颅前窝,anterior cranial fossa,26
 颅中窝,middle cranial fossa,26
@@ -86,3 +86,34 @@
 大脑前静脉,anterior cerebral veins,32
 大脑中静脉,middle cerebral veins,32
 Rosenthal 基底静脉,basal veins of Rosenthal,33
+舌骨,hyoid bone,40
+甲状软骨,thyroid cartilage,40
+环状软骨,cricoid cartilage,40
+颈动脉结节,carotid tubercle,40
+胸锁乳突肌,sternocleidomastoid,40
+锁骨上大窝,greater supraclavicular fossa,40
+胸骨上窝,suprasternal fossa,40
+颈总动脉,common carotid artery,40
+锁骨下动脉,subclavian artery,40
+颈外静脉,external jugular vein,"40, 42"
+幅神经,accessory nerve,40
+臂丛,brachial plexus,40
+胸膜顶,cupula of pleura,41
+肺尖,apex of lung,41
+颈前静脉,anterior jugular vein,41
+颈静脉弓,jugular venous arch,41
+颈前浅淋巴结,superficial anterior cervical lymph node,42
+颈外侧浅淋巴结,superficial lateral cervical lymph node,42
+耳大神经,greater auricular nerve,42
+颈横神经,transverse nerve of neck,42
+锁骨上神经,supraclavicular nerve,42
+面神经颈支,cervical branch of facial nerve,42
+颈筋膜,cervical fascia,42
+"浅层(颈筋膜), 封套筋膜","superficial layer, investing fascia",43
+"气管前筋膜(颈筋膜), 颈深筋膜中层, 内脏筋膜",pretracheal layer,43
+"椎前筋膜(颈筋膜), 颈深筋膜深层",prevertebral layer,43
+颈动脉鞘,carotid sheath,43
+胸骨上间隙,suprasternal space,44
+气管前间隙,pretracheal space,44
+咽后间隙,retropharyngeal space,44
+椎前间隙,prevertebral space,44
