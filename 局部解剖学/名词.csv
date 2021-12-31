@@ -14,7 +14,7 @@
 颈阔肌,platysma,41
 颊肌,buccinator,
 口轮匝肌,orbicularis oris,
-面动脉,facial artery,12
+面动脉,facial artery,"12, 45, 48"
 内眦动脉,angular artery,
 颏下动脉,submental artery,
 下唇动脉,inferior labial artery,
@@ -42,7 +42,7 @@
 腮腺,parotid gland,17
 腮腺管,parotid duct,17
 下颌后静脉,retromandibular vein,17
-颈外动脉,external carotid artery,"18, 40"
+颈外动脉,external carotid artery,"18, 40, 47"
 咬肌,masseter muscle,19
 颞下颌关节,tempormandibular joint,19
 翼内肌,medial pterygoid muscle,19
@@ -55,7 +55,7 @@
 眶下动脉,inferior orbital artery,20
 颊神经,buccal nerve,20
 耳颞神经,auriculotemporal nerve,20
-舌神经,lingual nerve,20
+舌神经,lingual nerve,"20, 45"
 下牙槽神经,inferior alveolar nerve,21
 咀嚼肌神经,masseter nerve,21
 咬肌间隙,masseter space,22
@@ -93,10 +93,10 @@ Rosenthal 基底静脉,basal veins of Rosenthal,33
 胸锁乳突肌,sternocleidomastoid,40
 锁骨上大窝,greater supraclavicular fossa,40
 胸骨上窝,suprasternal fossa,40
-颈总动脉,common carotid artery,40
+颈总动脉,common carotid artery,"40, 46"
 锁骨下动脉,subclavian artery,40
 颈外静脉,external jugular vein,"40, 42"
-幅神经,accessory nerve,40
+幅神经,accessory nerve,"40, 46"
 臂丛,brachial plexus,40
 胸膜顶,cupula of pleura,41
 肺尖,apex of lung,41
@@ -117,3 +117,18 @@ Rosenthal 基底静脉,basal veins of Rosenthal,33
 气管前间隙,pretracheal space,44
 咽后间隙,retropharyngeal space,44
 椎前间隙,prevertebral space,44
+舌骨上区,suprahyoid region,44
+舌骨下区,infrahyoid region,44
+颏下三角,submental triangle,44
+"下颌下三角, 二腹肌三角","submandibular triangle, digastric triangle",44
+下颌下腺,submandibular gland,45
+舌下神经,hypoglossal nerve,45
+下颌下神经节,submandibular ganglion,45
+颈动脉三角,carotid triangle,46
+颈内动脉,jugular vein,46
+迷走神经,vagus vein,46
+颈动脉窦,internal carotid sinus,46
+颈动脉体,carotid body,46
+颈动脉小球,carotid glomus,46
+甲状腺上动脉,superior thyroid artery,47
+舌动脉,lingual artery,48
