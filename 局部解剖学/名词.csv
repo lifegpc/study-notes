@@ -48,7 +48,7 @@
 翼内肌,medial pterygoid muscle,19
 翼外肌,lateral pterygoid muscle,19
 翼静脉丛,pterygoid plexus,19
-上颌动脉,maxillary artery,19
+上颌动脉,maxillary artery,"19, 48"
 下牙槽动脉,inferior alveolar artery,19
 脑膜中动脉,middle meningeal artery,20
 上牙槽后动脉,posterior superior alveolar artery,20
@@ -122,13 +122,28 @@ Rosenthal 基底静脉,basal veins of Rosenthal,33
 颏下三角,submental triangle,44
 "下颌下三角, 二腹肌三角","submandibular triangle, digastric triangle",44
 下颌下腺,submandibular gland,45
-舌下神经,hypoglossal nerve,45
+舌下神经,hypoglossal nerve,"45, 49"
 下颌下神经节,submandibular ganglion,45
 颈动脉三角,carotid triangle,46
-颈内动脉,jugular vein,46
-迷走神经,vagus vein,46
+颈内动脉,jugular vein,"46, 49"
+迷走神经,vagus vein,"46, 50"
 颈动脉窦,internal carotid sinus,46
 颈动脉体,carotid body,46
 颈动脉小球,carotid glomus,46
 甲状腺上动脉,superior thyroid artery,47
 舌动脉,lingual artery,48
+枕动脉,occiptial artery,48
+耳后动脉,posterior auricular artery,48
+咽升动脉,ascending pharyngeal artery,48
+颞浅动脉,superficial temporal artery,48
+颈内静脉,internal jugular vein,49
+颈静脉角,jugular venous angulus,49
+头壁静脉,branchiocephalic vein,49
+上腔静脉,superior vena cava,49
+副神经,accessory nerve,49
+二腹肌后腹,posterior belly of digastric,50
+肌三角(颈部),muscular triangle,50
+甲状腺,thyroid gland,50
+"腺鞘(甲状腺), 假被膜","gland sheath, false capsule",50
+"纤维囊(甲状腺), 真被膜","fibrous capsule, true capsule",50
+甲状腺悬韧带,suspensory ligaments of thyroid gland,50
